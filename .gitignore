@@ -1,0 +1,6 @@
+.myenv/
+.bwt/
+**pycache**/
+*.py[cod]
+.env
+.vscode/
