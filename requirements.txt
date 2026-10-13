@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+ipykernel
+scikit-learn
+tensorflow
+keras
+kagglehub
+callbacks
+optimizers
+joblib
+
